@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This file contains information regarding paper 3. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-382-capitalism-in-the-age-of-revolution-fall-2016/41af0202173cfcafed749fcfc80522be_MIT21H_382F16_Paper3.pdf
+file: /media/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/41af0202173cfcafed749fcfc80522be_MIT21H_382F16_Paper3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21H.382F16 Capitalism in the Age of Revolution: Assignments-Paper 2 Guidelines'
 uid: 41af0202-173c-fcaf-ed74-9fcfc80522be
