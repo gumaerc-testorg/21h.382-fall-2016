@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cfa549fc-5de3-7613-f898-8154e8235d6a
 resourcetype: Document
 title: 21H.382F16 Capitalism in the Age of Revolution - Student Example 2
 uid: 9ce15d16-9488-1b46-166c-0f52afe59b6c
