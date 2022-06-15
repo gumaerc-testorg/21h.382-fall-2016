@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features the course meeting times, course description, and
+  class format and evaluation info.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,7 +36,7 @@ Palmer, R. R., Joel Colton, and Lloyd Kramer. _A History of the Modern World_. 9
 
 This reading is strictly optional and we will not discuss it directly in seminar.
 
-All readings are detailed in the [Readings]({{< baseurl >}}/pages/readings) section.
+All readings are detailed in the {{% resource_link b951c11a-c706-de42-e7b6-c5efd3130def "Readings" %}} section.
 
 Class Format, Evaluation, and Attendance
 ----------------------------------------
@@ -93,7 +95,7 @@ Paper 3 (9–10 pages)
 
 {{< tableclose >}}
 
-For detail on the activities mentioned in the above table, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detail on the activities mentioned in the above table, see the {{% resource_link cfa549fc-5de3-7613-f898-8154e8235d6a "Assignments" %}} section.
 
 Writing Help
 ------------
