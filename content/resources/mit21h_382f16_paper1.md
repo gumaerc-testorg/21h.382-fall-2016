@@ -5,6 +5,7 @@ file: /courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/c5d95c58bda
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '21H.382F16 Capitalism in the Age of Revolution: Assignments-Paper 1 Guid
 uid: c5d95c58-bda5-7812-9426-2158c0b56ebb
 ---
 This file contains information regarding paper 1.
-
