@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information on the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: cfa549fc-5de3-7613-f898-8154e8235d6a
 ---
@@ -13,7 +17,7 @@ A five page paper that compares the Mississippi and South Sea bubbles. Your pape
 
 The paper is due during Session 5, and is worth 15% of the final grade.
 
-[Guidelines for Paper 1 (PDF)]({{< baseurl >}}/resources/mit21h_382f16_paper1)
+{{% resource_link c5d95c58-bda5-7812-9426-2158c0b56ebb "Guidelines for Paper 1 (PDF)" %}}
 
 Paper 2
 -------
@@ -22,7 +26,7 @@ A six to seven page paper on the American or French Revolutionary materials. You
 
 The paper is due during Session 12, and is worth 20% if the final grade.
 
-[Guidelines for Paper 2 (PDF)]({{< baseurl >}}/resources/mit21h_382f16_paper2)
+{{% resource_link 85a7e654-6aa5-735a-1bdc-7dadeb7a0a3f "Guidelines for Paper 2 (PDF)" %}}
 
 Paper 3
 -------
@@ -31,13 +35,13 @@ A nine to ten page paper on the significance of the relationship between slavery
 
 The paper is due during the final class, Session 15, and is worth 25% of the final grade.
 
-[Guidelines for Paper 3 (PDF)]({{< baseurl >}}/resources/mit21h_382f16_paper3)
+{{% resource_link 41af0202-173c-fcaf-ed74-9fcfc80522be "Guidelines for Paper 3 (PDF)" %}}
 
 Student Examples
 ----------------
 
 The following papers were provided by MIT students and appear here anonymously upon their request.
 
-"[A Tale of Two Companies: East India Companies and Revolution in 18th Century Britain and France (PDF)]({{< baseurl >}}/resources/mit21h_382f16_tale)." 
+"{{% resource_link 57722836-9c8e-0326-bd90-f22154b5e648 "A Tale of Two Companies: East India Companies and Revolution in 18th Century Britain and France (PDF)" %}}." 
 
-"[The Corporation as a Dynamic Modern Capitalist Institution that can either Support or Conflict with Representative Democracy (PDF)]({{< baseurl >}}/resources/mit21h_382f16_corporation)."
+"{{% resource_link 9ce15d16-9488-1b46-166c-0f52afe59b6c "The Corporation as a Dynamic Modern Capitalist Institution that can either Support or Conflict with Representative Democracy (PDF)" %}}."
