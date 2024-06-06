@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding paper 3. '
 file: /courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/41af0202173cfcafed749fcfc80522be_MIT21H_382F16_Paper3.pdf
+file_size: 255118
 file_type: application/pdf
 learning_resource_types:
 - Assignments
