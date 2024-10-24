@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding a tale of two companies. '
-file: /courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/577228369c8e0326bd90f22154b5e648_MIT21H_382F16_Tale.pdf
+file: /ol-ocw-studio-app/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/577228369c8e0326bd90f22154b5e648_MIT21H_382F16_Tale.pdf
 file_size: 514524
 file_type: application/pdf
 learning_resource_types:
