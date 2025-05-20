@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Capitalism in the Age
   of Revolution - Student Example 2.
-file: /ol-ocw-studio-app/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/9ce15d1694881b46166c0f52afe59b6c_MIT21H_382F16_Corporation.pdf
+file: /courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/9ce15d1694881b46166c0f52afe59b6c_MIT21H_382F16_Corporation.pdf
 file_size: 338137
 file_type: application/pdf
 learning_resource_types:
