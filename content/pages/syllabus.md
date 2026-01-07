@@ -28,7 +28,7 @@ Course Materials
 
 There is one required text for this course.
 
-Beckert, Sven, and Seth Rockman, eds. _Slavery's Capitalism: A New History of American Economic Development_. University of Pennsylvania Press, 2016. ISBN: 9780812248418. \[Preview with {{% resource_link "880aff6b-76c1-4db9-8c62-5fcf339897de" "Google Books" %}}\]
+Beckert, Sven, and Seth Rockman, eds. _Slavery's Capitalism: A New History of American Economic Development_. University of Pennsylvania Press, 2016. ISBN: 9780812248418. \[Preview with [Google Books](http://books.google.com/books?id=O3-7DAAAQBAJ&pg=PAfrontcover)\]
 
 Although no background knowledge is assumed or required, it will be useful to have some familiarity with the events and issues of eighteenth-century North Atlantic history. For this purpose I have indicated, at various points in the semester, some selections from the following textbook:
 
@@ -100,4 +100,4 @@ For detail on the activities mentioned in the above table, see the {{% resource_
 Writing Help
 ------------
 
-The {{% resource_link "ce35462b-7f04-4596-87b3-5646f48c5a80" "Writing and Communication Center at MIT" %}} (WCC) offers MIT students free one-on-one professional advice from communication experts (MIT lecturers who have advanced degrees and who are all are published writers). The WCC helps you strategize about all types of academic writing as well as about all aspects of oral presentations. The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice.
+The [Writing and Communication Center at MIT](http://cmsw.mit.edu/writing-and-communication-center/) (WCC) offers MIT students free one-on-one professional advice from communication experts (MIT lecturers who have advanced degrees and who are all are published writers). The WCC helps you strategize about all types of academic writing as well as about all aspects of oral presentations. The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice.
